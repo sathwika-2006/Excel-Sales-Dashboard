@@ -1,7 +1,5 @@
 # Excel-Sales-Dashboard
 
-# Excel Sales Dashboard
-
 This repository contains an interactive **Excel Sales Dashboard** that displays sales performance for different regions and executives.  
 
 ## Features
